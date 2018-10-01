@@ -4,7 +4,6 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-//TODO Not enough time to complete task
 public class PhotoRecyclerViewAdapterTest {
 
     @Test
